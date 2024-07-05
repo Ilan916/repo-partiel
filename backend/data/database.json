@@ -1,0 +1,112 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "06-12-34-56-78",
+      "level": "Confirmé",
+      "membershipType": "Classique",
+      "ageCategory": "Majeur"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "06-87-65-43-21",
+      "level": "Débutant",
+      "membershipType": "Modern Jazz",
+      "ageCategory": "Mineur"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "phone": "06-55-66-77-88",
+      "level": "Intermédiaire",
+      "membershipType": "Contemporain",
+      "ageCategory": "Majeur"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "email": "bob@example.com",
+      "phone": "06-44-33-22-11",
+      "level": "Éveil/Initiation",
+      "membershipType": "Hip-Hop",
+      "ageCategory": "Mineur"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Green",
+      "email": "charlie@example.com",
+      "phone": "06-33-22-11-10",
+      "level": "Avancé",
+      "membershipType": "Classique",
+      "ageCategory": "Majeur"
+    },
+    {
+      "id": 6,
+      "name": "Daisy White",
+      "email": "daisy@example.com",
+      "phone": "06-66-55-44-33",
+      "level": "Débutant",
+      "membershipType": "Modern Jazz",
+      "ageCategory": "Mineur"
+    },
+    {
+      "id": 7,
+      "name": "Ella Black",
+      "email": "ella@example.com",
+      "phone": "06-77-88-99-00",
+      "level": "Intermédiaire",
+      "membershipType": "Contemporain",
+      "ageCategory": "Majeur"
+    },
+    {
+      "id": 8,
+      "name": "Frank Brown",
+      "email": "frank@example.com",
+      "phone": "06-88-77-66-55",
+      "level": "Éveil/Initiation",
+      "membershipType": "Hip-Hop",
+      "ageCategory": "Mineur"
+    },
+    {
+      "id": 9,
+      "name": "Grace Green",
+      "email": "grace@example.com",
+      "phone": "06-11-22-33-44",
+      "level": "Confirmé",
+      "membershipType": "Classique",
+      "ageCategory": "Majeur"
+    },
+    {
+      "id": 10,
+      "name": "Hank Blue",
+      "email": "hank@example.com",
+      "phone": "06-22-33-44-55",
+      "level": "Débutant",
+      "membershipType": "Modern Jazz",
+      "ageCategory": "Mineur"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Dance Workshop",
+      "date": "2024-07-05",
+      "location": "Main Hall",
+      "isPaid": true,
+      "memberId": 1
+    },
+    {
+      "id": 2,
+      "title": "Annual Show",
+      "date": "2024-12-10",
+      "location": "City Theater",
+      "isPaid": false,
+      "memberId": 2
+    }
+  ]
+}
